@@ -1,0 +1,53 @@
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-size: 40pt;
+	font-family: "Trebuchet MS";
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+.center {
+	text-align: center;
+}
+
+.player-list {
+	width: 100%;
+	margin: 5px;
+}
+
+.player-list .title {
+	font-size: 30pt;
+}
+
+.player {
+	border-top: #fff 30px solid;
+}
+
+.player .stat {
+	width: 20%;
+}
+
+.new-player-name {
+	font-size: 40pt;
+	font-family: "Trebuchet MS";
+	padding: 4px;
+	margin: 2px;
+	border: 2px solid #eee;
+	width: 95%;
+	box-
+}
+
+.win {
+	margin-top: 200px;
+}
+
+.footer {
+	padding-top: 200px;
+	font-size: 30pt;
+	color: #a9a9a9;
+	padding-left: 10px;
+}
